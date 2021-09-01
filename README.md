@@ -1,4 +1,4 @@
-# JavaScript ゲームテンプレート
+# JavaScript ゲームテンプレート2
 ## 対象
 JavaScriptレベル6を修了した方
 
